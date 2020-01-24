@@ -1,0 +1,183 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+
+
+header{
+
+	width: 1100px;
+	height: auto;
+	margin: 0 auto;
+}
+h1{
+	color:#fff;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+.nav{
+	width: 960px;
+	height: 45vh;
+ background-position: center;
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+.nav ul li{
+	list-style: none;
+	display: inline-block;position: relative;
+
+}
+.nav ul li a{
+	display: block;
+	padding: 20px 35px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none; 
+	
+
+}
+.nav ul li a:hover{
+	color:white;
+	background:#0876;
+}
+.nav ul li ul{
+position: absolute;
+background: #000;
+left: -9999px;
+}
+.nav ul li:hover ul{
+	left: 0px;
+
+}
+.nav ul li ul li{
+	width: 200px;
+	border-bottom: 1px solid #fff;
+
+}
+
+.about{
+	width: 960px;
+background-position: center;	height: auto;
+ 
+ background-size:cover;
+ background-repeat: no-repeat;
+
+	background: #d0d1bb;
+}
+
+    
+	
+
+.text{
+
+	margin: 50px;
+	padding: 100px;
+}
+h2{
+	margin: 20px
+	padding:30px;
+
+
+	text-align: center;
+	}
+	footer{
+
+		width: 960px;
+	height:150px ;
+	margin: 0px ;
+
+	background-position: center;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	background: #cccc99;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+	}
+	.contract{
+		position: absolute;
+
+		margin: 20px;
+		padding: 20px;
+		Padding-left:150px; 
+		
+	}
+	.Link{
+		font-size:16px;
+
+		position:absolute;
+		
+		left:800px;
+	margin: 20px;
+		padding: 20px;
+	}
+	.contract ul li{
+		list-style: none;
+		color: #660099;
+	}
+	.clocation{
+		width: 800px;
+background-position: center;	height: auto;
+ 
+ background-size:cover;
+ background-repeat: no-repeat;
+
+	background: #d0d1bb;
+	margin-top: 0px;
+	padding: 80px;
+
+	}
+	.loc {
+		padding-left: 40px;
+	}
+	.deptinfo{
+width: 920px;
+background-position: center;	height: auto;
+ 
+ background-size:cover;
+ background-repeat: no-repeat;
+ padding: 20px;
+
+	background: #d0d1bb;
+}
+
+	
+	.text1{
+              margin: 20px;
+              padding: 20px;
+			
+	}
+	.img1{
+ margin: 20px;
+              padding: 20px;
+			
+
+	}
+	.img2{
+ margin: 20px;
+              padding: 20px;
+			
+
+	}.img3{
+ margin: 20px;
+              padding: 20px;
+			
+
+	}
+	.Ccirculer{
+		width: 800px;
+background-position: center;	height: auto;
+ 
+ background-size:cover;
+ background-repeat: no-repeat;
+
+	background: #d0d1bb;
+	margin-top: 0px;
+	padding: 80px;
+}
